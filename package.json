@@ -1,6 +1,6 @@
 {
   "name": "react-sheriff",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "dist/react-sheriff.js",
   "module": "dist/react-sheriff.mjs",
   "source": "src/index.js",
@@ -13,6 +13,6 @@
     "react": "16.4.2"
   },
   "scripts": {
-    "build": "microbundle -o dist"
+    "build": "microbundle -o dist --jsx React.createElement"
   }
 }
