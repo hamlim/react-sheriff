@@ -1,6 +1,6 @@
 {
   "name": "react-sheriff",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "dist/react-sheriff.js",
   "module": "dist/react-sheriff.mjs",
   "source": "src/index.js",
